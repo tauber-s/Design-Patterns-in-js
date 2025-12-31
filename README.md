@@ -29,6 +29,8 @@ The project is focused on **learning, practice, and future reference**.
 design-patterns-js/
 │
 ├── creational/
+│   ├── abstract-factory/
+│   ├── builder/
 │   ├── factory-method/
 │
 └── README.md
@@ -38,9 +40,9 @@ design-patterns-js/
 ### Creational
 - [x] Factory Method
 
-- [ ] Abstract Factory
+- [x] Abstract Factory
 
-- [ ] Builder
+- [x] Builder
 
 - [ ] Prototype
 
